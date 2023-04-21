@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}{}%
+\contentsline {section}{\numberline {2}Das Verhältnis von Affekt, Wille, Handlung und Vernunft}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Einteilung der Vernunft}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Übertragen des Gesagten auf die Sittlichkeit}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Das Verhältnis von Vernunft und Affekt}{6}{}%
+\contentsline {section}{\numberline {3}Schluss}{7}{}%
+\babel@toc {english}{}\relax 

@@ -1,0 +1,762 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.18)  14 MAR 2023 23:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (diazessay.cls
+Document Class: diazessay 2019/01/13 Diaz Essay class v1.0
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen140
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty
+Package: babel 2022/10/23 3.82 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ng
+erman.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ng
+ermanb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+))
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\e
+nglish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/
+en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/
+de\babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig
+.sty
+\wrapoverhang=\dimen144
+\WF@size=\dimen145
+\c@WF@wrappedlines=\count195
+\WF@box=\box51
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\bookta
+bs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen146
+\lightrulewidth=\dimen147
+\cmidrulewidth=\dimen148
+\belowrulesep=\dimen149
+\belowbottomsep=\dimen150
+\aboverulesep=\dimen151
+\abovetopsep=\dimen152
+\cmidrulesep=\dimen153
+\cmidrulekern=\dimen154
+\defaultaddspace=\dimen155
+\@cmidla=\count196
+\@cmidlb=\count197
+\@aboverulesep=\dimen156
+\@belowrulesep=\dimen157
+\@thisruleclass=\count198
+\@lastruleclass=\count199
+\@thisrulewidth=\dimen158
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumit
+em.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen159
+\enit@toks=\toks18
+\enit@inbox=\box52
+\enit@count@id=\count266
+\enitdp@description=\count267
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks19
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg))
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathpazo
+.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/microtype\micro
+type.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolb
+ox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+)
+\MT@toks=\toks22
+\MT@tempbox=\box53
+\MT@count=\count272
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen168
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count273
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/microtype\micro
+type-pdftex.def
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip50
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/microtype\micro
+type.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+))
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyh
+dr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+))
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
+ce.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvset
+keys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.s
+ty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count274
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.d
+ef
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count275
+\c@listtotal=\count276
+\c@listcount=\count277
+\c@liststart=\count278
+\c@liststop=\count279
+\c@citecount=\count280
+\c@citetotal=\count281
+\c@multicitecount=\count282
+\c@multicitetotal=\count283
+\c@instcount=\count284
+\c@maxnames=\count285
+\c@minnames=\count286
+\c@maxitems=\count287
+\c@minitems=\count288
+\c@citecounter=\count289
+\c@maxcitecounter=\count290
+\c@savedcitecounter=\count291
+\c@uniquelist=\count292
+\c@uniquename=\count293
+\c@refsection=\count294
+\c@refsegment=\count295
+\c@maxextratitle=\count296
+\c@maxextratitleyear=\count297
+\c@maxextraname=\count298
+\c@maxextradate=\count299
+\c@maxextraalpha=\count300
+\c@abbrvpenalty=\count301
+\c@highnamepenalty=\count302
+\c@lownamepenalty=\count303
+\c@maxparens=\count304
+\c@parenlevel=\count305
+\blx@tempcnta=\count306
+\blx@tempcntb=\count307
+\blx@tempcntc=\count308
+\c@blx@maxsection=\count309
+\blx@maxsegment@0=\count310
+\blx@notetype=\count311
+\blx@parenlevel@text=\count312
+\blx@parenlevel@foot=\count313
+\blx@sectionciteorder@0=\count314
+\blx@sectionciteorderinternal@0=\count315
+\blx@entrysetcounter=\count316
+\blx@biblioinstance=\count317
+\labelnumberwidth=\skip60
+\labelalphawidth=\skip61
+\biblabelsep=\skip62
+\bibitemsep=\skip63
+\bibnamesep=\skip64
+\bibinitsep=\skip65
+\bibparsep=\skip66
+\bibhang=\skip67
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count318
+\c@maxcomprange=\count319
+\c@mincompwidth=\count320
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm
+.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'trad-abbrv.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count321
+\c@savedafterword=\count322
+\c@annotator=\count323
+\c@savedannotator=\count324
+\c@author=\count325
+\c@savedauthor=\count326
+\c@bookauthor=\count327
+\c@savedbookauthor=\count328
+\c@commentator=\count329
+\c@savedcommentator=\count330
+\c@editor=\count331
+\c@savededitor=\count332
+\c@editora=\count333
+\c@savededitora=\count334
+\c@editorb=\count335
+\c@savededitorb=\count336
+\c@editorc=\count337
+\c@savededitorc=\count338
+\c@foreword=\count339
+\c@savedforeword=\count340
+\c@holder=\count341
+\c@savedholder=\count342
+\c@introduction=\count343
+\c@savedintroduction=\count344
+\c@namea=\count345
+\c@savednamea=\count346
+\c@nameb=\count347
+\c@savednameb=\count348
+\c@namec=\count349
+\c@savednamec=\count350
+\c@translator=\count351
+\c@savedtranslator=\count352
+\c@shortauthor=\count353
+\c@savedshortauthor=\count354
+\c@shorteditor=\count355
+\c@savedshorteditor=\count356
+\c@labelname=\count357
+\c@savedlabelname=\count358
+\c@institution=\count359
+\c@savedinstitution=\count360
+\c@lista=\count361
+\c@savedlista=\count362
+\c@listb=\count363
+\c@savedlistb=\count364
+\c@listc=\count365
+\c@savedlistc=\count366
+\c@listd=\count367
+\c@savedlistd=\count368
+\c@liste=\count369
+\c@savedliste=\count370
+\c@listf=\count371
+\c@savedlistf=\count372
+\c@location=\count373
+\c@savedlocation=\count374
+\c@organization=\count375
+\c@savedorganization=\count376
+\c@origlocation=\count377
+\c@savedoriglocation=\count378
+\c@origpublisher=\count379
+\c@savedorigpublisher=\count380
+\c@publisher=\count381
+\c@savedpublisher=\count382
+\c@language=\count383
+\c@savedlanguage=\count384
+\c@origlanguage=\count385
+\c@savedoriglanguage=\count386
+\c@pageref=\count387
+\c@savedpageref=\count388
+\shorthandwidth=\skip68
+\shortjournalwidth=\skip69
+\shortserieswidth=\skip70
+\shorttitlewidth=\skip71
+\shortauthorwidth=\skip72
+\shorteditorwidth=\skip73
+\locallabelnumberwidth=\skip74
+\locallabelalphawidth=\skip75
+\localshorthandwidth=\skip76
+\localshortjournalwidth=\skip77
+\localshortserieswidth=\skip78
+\localshorttitlewidth=\skip79
+\localshortauthorwidth=\skip80
+\localshorteditorwidth=\skip81
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-co
+mpat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count389
+\c@textcitetotal=\count390
+\c@textcitemaxnames=\count391
+\c@biburlbigbreakpenalty=\count392
+\c@biburlbreakpenalty=\count393
+\c@biburlnumpenalty=\count394
+\c@biburlucpenalty=\count395
+\c@biburllcpenalty=\count396
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count397
+)
+Package biblatex Info: Trying to load bibliography style 'trad-abbrv'...
+Package biblatex Info: ... file 'trad-abbrv.bbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\t
+rad-abbrv.bbx
+File: trad-abbrv.bbx 2021/03/06 v0.5 biblatex-trad abbrv bibliography style
+Package biblatex Info: Trying to load bibliography style 'trad-standard'...
+Package biblatex Info: ... file 'trad-standard.bbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\t
+rad-standard.bbx
+File: trad-standard.bbx 2021/03/06 v0.5 biblatex-trad base bibliography style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\st
+andard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count398
+\c@bbx:relatedtotal=\count399
+)))
+Package biblatex Info: Trying to load citation style 'trad-abbrv'...
+Package biblatex Info: ... file 'trad-abbrv.cbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-trad\t
+rad-abbrv.cbx
+File: trad-abbrv.cbx 2021/03/06 v0.5 biblatex-trad abbrv citation style
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\nu
+meric.cbx
+File: numeric.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblat
+ex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.
+sty
+Package: expl3 2022-11-02 L3 programming layer (loader) 
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count400
+\l__pdf_internal_box=\box54
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-11-02 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-ca
+se-expl3.sty
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpar
+se\xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count401
+\@quotereset=\count402
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 52
+.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count403
+\scratchdimen=\dimen169
+\scratchbox=\box55
+\nofMPsegments=\count404
+\nofMParguments=\count405
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count406
+\MPscratchDim=\dimen170
+\MPnumerator=\count407
+\makeMPintoPDFobject=\count408
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 369.88583pt, 113.81102pt)
+* v-part:(T,H,B)=(71.13188pt, 688.5567pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=369.88583pt
+* \textheight=688.5567pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-43.81721pt
+* \headheight=21.33955pt
+* \headsep=21.33955pt
+* \topskip=12.0pt
+* \footskip=42.67912pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\big@size=\dimen171
+LaTeX Info: Redefining \microtypecontext on input line 52.
+Package microtype Info: Applying patch `item' on input line 52.
+Package microtype Info: Applying patch `toc' on input line 52.
+Package microtype Info: Applying patch `eqnum' on input line 52.
+Package microtype Info: Applying patch `footnote' on input line 52.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 52.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-pp
+l.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\en
+glish.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ng
+erman.lbx
+File: ngerman.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ge
+rman.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ge
+rman.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 52.
+Package biblatex Info: Reference segment=0 on input line 52.
+ [1
+
+{C:/Users/Ballumlenkmon/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (mai
+n.toc
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 5
+.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.f
+d
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+5.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.
+fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+5.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.
+fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+5.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.
+fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+5.
+
+(C:\Users\Ballumlenkmon\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.
+fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [2] [3] [4] [5] [6] [7] [8] [9] (main.aux)
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14255 strings out of 475285
+ 268793 string characters out of 2770343
+ 1098657 words of memory out of 3000000
+ 35314 multiletter control sequences out of 15000+600000
+ 512022 words of font info for 222 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 70i,11n,76p,1447b,3718s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Ballumlenkmon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r
+.enc}<C:/Users/Ballumlenkmon/AppData/Local/Programs/MiKTeX/fonts/type1/urw/pala
+tino/uplb8a.pfb><C:/Users/Ballumlenkmon/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/urw/palatino/uplr8a.pfb><C:/Users/Ballumlenkmon/AppData/Local/Programs/MiKTe
+X/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (9 pages, 78340 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 68609 words of extra memory for PDF output out of 74296 (max. 10000000)
+

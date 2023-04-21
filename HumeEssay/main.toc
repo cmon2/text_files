@@ -1,0 +1,14 @@
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}{}%
+\contentsline {section}{\numberline {2}Erste Beweisführung: Vom allgemeinen zum sittlichen Handeln}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Einteilung der Vernunft}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Warum das Urteilen über die Beziehungen von inneren Vorstellungen nicht der Ursprung eines Willens sein kann}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Warum das Urteilen über die Beziehungen von wahrnehmbaren Gegenständen nicht der Ursprung eines Willens sein kann}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Zwischenkonklusion}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Übertragen des Gesagten auf die Sittlichkeit}{6}{}%
+\contentsline {section}{\numberline {3}Zweite Beweisführung: Der Affekt als originales Etwas}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Was es bedeutet, dass der Affekt nicht der Vernunft wider-, oder entsprechen kann}{8}{}%
+\contentsline {section}{\numberline {4}Das Verhältnis von Vernunft und Affekt}{8}{}%
+\contentsline {section}{\numberline {5}Schluss}{9}{}%
+\babel@toc {english}{}\relax 
