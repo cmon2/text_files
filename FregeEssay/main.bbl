@@ -1,0 +1,66 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Frege}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1c468d5fce77082669983ce899030b96}{%
+           family={Frege},
+           familyi={F\bibinitperiod},
+           given={Gottlob},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=affe4cd28c20dd70170ad8c25661f018}{%
+           family={Angelelli},
+           familyi={A\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hildesheim}%
+      }
+      \list{publisher}{1}{%
+        {Georg Olm}%
+      }
+      \strng{namehash}{1c468d5fce77082669983ce899030b96}
+      \strng{fullhash}{1c468d5fce77082669983ce899030b96}
+      \strng{bibnamehash}{1c468d5fce77082669983ce899030b96}
+      \strng{authorbibnamehash}{1c468d5fce77082669983ce899030b96}
+      \strng{authornamehash}{1c468d5fce77082669983ce899030b96}
+      \strng{authorfullhash}{1c468d5fce77082669983ce899030b96}
+      \strng{editorbibnamehash}{affe4cd28c20dd70170ad8c25661f018}
+      \strng{editornamehash}{affe4cd28c20dd70170ad8c25661f018}
+      \strng{editorfullhash}{affe4cd28c20dd70170ad8c25661f018}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Kleine Schriften}
+      \field{title}{{Über Sinn und Bedeutung}}
+      \field{year}{1967}
+      \field{pages}{143\bibrangedash 162}
+      \range{pages}{20}
+    \endentry
+  \enddatalist
+  \missing{Hume.2013}
+\endrefsection
+\endinput
+
